@@ -17,14 +17,6 @@ Olá! Me chamo Carlos, tenho 31 anos e sou natural de Juiz de Fora (MG). Atualme
     />
   </a>
 
-  <a href="https://github.com/CarlosDevZera" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" 
-      alt="GitHub"
-    />
-  </a>
-</p>
-
 ...
 
 ## 🤖 Linguagens e Tecnologias
