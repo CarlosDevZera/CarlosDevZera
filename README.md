@@ -10,7 +10,7 @@ Olá! Me chamo Carlos, tenho 31 anos e sou natural de Juiz de Fora (MG). Atualme
 🚀 Sigo estudando todos os dias, focado em aprender mais, evoluir constantemente e construir uma trajetória sólida na área de tecnologia.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/carlos-alberto-a25300302" target="_blank">
+  <a href="https://www.linkedin.com/in/eucarlosalberto/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn"
