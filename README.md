@@ -7,7 +7,7 @@ Olá! Me chamo Carlos, sou natural de Juiz de Fora (MG). Atualmente moro em São
 
 💻 Estou no 6º semestre de Sistemas de Informação e possuo 3 anos e meio de experiência como técnico em informática, atuando com suporte, manutenção e soluções de TI.
 
-🚀 Sigo estudando todos os dias, focado em aprender mais, evoluir constantemente e construir uma trajetória sólida na área de tecnologia.
+🚀 Sigo estudando todos os dias, focado em aprender, evoluir constantemente e construir uma trajetória sólida na área de tecnologia.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eucarlosalberto/" target="_blank">
