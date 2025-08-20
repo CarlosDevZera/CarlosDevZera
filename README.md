@@ -1,6 +1,5 @@
 # 👋 Sobre mim
 
-**Desenvolvedor Full Stack** <br>
 **Analista de Dados**
 
 Olá! Me chamo Carlos, tenho 31 anos e sou natural de Juiz de Fora (MG). Atualmente moro em São Paulo (SP), onde busco crescer tanto no lado pessoal quanto profissional.
