@@ -5,7 +5,7 @@
 
 Olá! Me chamo Carlos, tenho 31 anos e sou natural de Juiz de Fora (MG). Atualmente moro em São Paulo (SP), onde busco crescer tanto no lado pessoal quanto profissional.
 
-💻 Estou no 5º semestre de Sistemas de Informação e possuo 3 anos e meio de experiência como técnico em informática, atuando com suporte, manutenção e soluções de TI.
+💻 Estou no 6º semestre de Sistemas de Informação e possuo 3 anos e meio de experiência como técnico em informática, atuando com suporte, manutenção e soluções de TI.
 
 🚀 Sigo estudando todos os dias, focado em aprender mais, evoluir constantemente e construir uma trajetória sólida na área de tecnologia.
 
