@@ -1,6 +1,6 @@
 # 👋 Sobre mim
 
-**Analista de Dados**
+**Analista de Dados** <br>
 **Desenvolvedor de Software**
 
 Olá! Me chamo Carlos, tenho 31 anos e sou natural de Juiz de Fora (MG). Atualmente moro em São Paulo (SP), onde busco crescer tanto no lado pessoal quanto profissional.
